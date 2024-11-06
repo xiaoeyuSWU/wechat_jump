@@ -1,0 +1,5 @@
+Basic Gameplay: Players control the jumping force of the character by holding down the screen; once the finger is released, the character will jump onto the next block. The distance of the jump depends on the duration the screen is held down.
+
+Scoring Method: Points are earned for each successful jump onto a block. The game objective is to jump as far as possible and achieve a higher score. The game has no end until the character falls off.
+
+Note: The player is represented by a black piece, while there are approximately dozens of types of blocks. I have uploaded images of the player and some of the blocks.
